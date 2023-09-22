@@ -19,6 +19,8 @@ Email : abhidev.sp@msds.christuniversity.in
 |5.|09-09-23|lab05|Mix & Match Calculator|
 |6.|11-09-23|lab06|Vowel Counter|
 |7.|17-09-23|lab07|My Menu Driven Restaurant|
+|8.|22-09-23|lab09|Class Expense Tracker|
+
 
 |
 
