@@ -22,8 +22,8 @@ Email : abhidev.sp@msds.christuniversity.in
 |8.|18-09-23|lab08|Matrix Multiplication|https://github.com/AbhidevSP21/MScDSA-MDS171-23122001-Abhidev/blob/9e1f8e46af50f2b55803d1f7bc732eed4addad8c/Lab08.py|
 |9.|22-09-23|lab09|Class Expense Tracker|https://github.com/AbhidevSP21/MScDSA-MDS171-23122001-Abhidev/tree/9e1f8e46af50f2b55803d1f7bc732eed4addad8c/Lab09|
 |10.|26-10-23|lab10|Create Python class for managing student details and marks|https://github.com/AbhidevSP21/MScDSA-MDS171-23122001-Abhidev/blob/9e1f8e46af50f2b55803d1f7bc732eed4addad8c/Lab%2010%20.py|
-|11.|19-09-23|CAC 1|https://github.com/AbhidevSP21/MScDSA-MDS171-23122001-Abhidev/blob/35bae980da579a559b53cd2efab2821bf5cd6a16/CAC%20PROJECT/CAC.py|
-|12.|25-10-23|CAC 2|https://github.com/AbhidevSP21/MScDSA-MDS171-23122001-Abhidev/blob/35bae980da579a559b53cd2efab2821bf5cd6a16/CAC%20PROJECT/23122001_CAC%202.ipynb|
+|11.|19-09-23|CAC 1|Drug Discovery|https://github.com/AbhidevSP21/MScDSA-MDS171-23122001-Abhidev/blob/35bae980da579a559b53cd2efab2821bf5cd6a16/CAC%20PROJECT/CAC.py|
+|12.|25-10-23|CAC 2|Analysing using E-commerce|https://github.com/AbhidevSP21/MScDSA-MDS171-23122001-Abhidev/blob/35bae980da579a559b53cd2efab2821bf5cd6a16/CAC%20PROJECT/23122001_CAC%202.ipynb|
 
 
 
